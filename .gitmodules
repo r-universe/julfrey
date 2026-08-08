@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "CspStandSegmentation"]
-	path = CspStandSegmentation
-	url = https://github.com/julfrey/cspstandsegmentation
 [submodule "GalaxyR"]
 	path = GalaxyR
 	url = https://github.com/julfrey/galaxyr
